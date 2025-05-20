@@ -1,0 +1,15 @@
+package src.Utils;
+
+public enum Specialization {
+    GENERAL_MEDICINE,
+    CARDIOLOGY,
+    DERMATOLOGY,
+    PEDIATRICS,
+    NEUROLOGY,
+    ORTHOPEDICS,
+    PSYCHIATRY,
+    RADIOLOGY,
+    OPHTHALMOLOGY,
+    GYNECOLOGY,
+    DENTISTRY
+}
