@@ -41,6 +41,6 @@ Acţiuni şi interogări:
 27.Afișează detalii echipă – Nume, membri (ID, nume, an).
 28.Elimină student din echipă – Îndepărtează un membru.
 29.Adaugă recenzie – Feedback pentru curs (rating 1-5, comentariu).
-31.Afișează recenziile unui curs – Listează toate recenziile + detalii.
-32.Calculează rating curs – Afișează media rating-urilor.
-Afișează recenziile unui student – Arată feedback-urile lăsate de un student.
+30.Afișează recenziile unui curs – Listează toate recenziile + detalii.
+31.Calculează rating curs – Afișează media rating-urilor.
+32.Afișează recenziile unui student – Arată feedback-urile lăsate de un student.
